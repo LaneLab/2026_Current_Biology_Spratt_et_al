@@ -25,5 +25,30 @@ Summary datafiles for untracked data are located in DIMM_untracked and contain a
 
 - **mRuby_Stats.csv** - contains information about Ruby features for each cell_id.
 
+- **model_params.xlsx** - contains parameters (as column names) for each of the Random Forest Regressor models created
+
 ## Analysis
 4 jupyter notebooks for downstream analysis and plotting are included - found in DIMM_code 
+
+- **Cycle_Feature_Plotting.ipynb** - contains code used to filter and plot cell cycle features as in Figure 5A-C
+
+- **Mother_Plotting.ipynb** - contains code used to plot mother cell data as in Figure 4
+
+- **ParentProgenyCorrelative_Plotting.ipynb - contains code to filter and plot Figure 5F
+
+- **RandomForest.ipynb** - contains code used to generate and plot random forest regressor models as in Figure 5
+
+# Macrophage Data
+
+## Extracted Data
+
+- **IC_Bact_Tracking** - folder contains .pkl files extracted from Trackmate for tracked bacteria in Figure 6B
+
+- **BAF_pHrodo.csv** - data used in Figure 6F
+
+- **BAF_STm_Infection.csv** - data used in Figure 6F-I
+
+## Analysis
+
+  
+
