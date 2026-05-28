@@ -49,6 +49,8 @@ Summary datafiles for untracked data are located in DIMM_untracked and contain a
 - **BAF_STm_Infection.csv** - data used in Figure 6F-I
 
 ## Analysis
-
+- **Tracked_Bacteria.ipynb** - contains code to process and plot .pkl files as in Figure 6B
+- **BAF_pHrodo.ipynb** - contains code to plot pHrodo bioparticle data
+- **BAF_STm_Infection** - contains code to plot BAF-A1 infection data in Figure 6F-I and associated supplement
   
 
