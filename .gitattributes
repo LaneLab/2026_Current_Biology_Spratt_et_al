@@ -1,0 +1,2 @@
+/Users/Madison/Desktop/2026_Current_Biology_Spratt_et_al/Mac_Infection_Data/BAFA1_Infection_Data.csv filter=lfs diff=lfs merge=lfs -text
+Mac_Infection_Data/BAFA1_Infection_Data.csv filter=lfs diff=lfs merge=lfs -text
