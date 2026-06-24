@@ -20,7 +20,7 @@ FlowJo was used to analyze FCS files. The .xlsx files contain summary statistics
 
 ## FCS Files
 
-All FCS files and FlowJo workspaces can be found on Zenodo, Figure 1 FCS and .wsp files are included in /FlowFCSandWSP as examples. 
+All FCS files and FlowJo workspaces can be found on Zenodo. 
 
 # DIMM Data: 
 
